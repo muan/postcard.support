@@ -1,6 +1,6 @@
 # postcard.support
 
-## From Taiwan
+## Taiwan
 
 ### Sourcing cards
 
@@ -26,7 +26,7 @@ Usually there is a permanant exhibit and a souvenier shop selling postcards. The
 
 - [www.post.gov.tw](https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=2020204)
 
-## From the U.S.
+## United States
 
 ### Means
 
