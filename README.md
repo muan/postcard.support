@@ -87,3 +87,27 @@ In 2024, postage costs for postcards are 63 JPY domestically and 100 JPY for int
 ### References
 
 - [https://www.post.japanpost.jp](https://www.post.japanpost.jp/index.html)
+
+## Iceland
+
+### Sourcing cards
+
+- [Bókasala stúdenta](https://www.boksala.is/) reccomended by @koddsson
+
+### Means
+
+#### Stamps
+
+You should be able to get stamps in any of the stores and post offices listed on [posturinn.is](https://posturinn.is/en/individuals/sending/stamps/). Most people in Iceland speak excellent english so you shouldn't have any issues (given you speak english of course).
+
+#### Pricing
+
+As of 2024, the postage from domestic to international postcards ranges from 290 ISK (domestic) to 330 ISK (EU) and 420 ISK (Rest of the world) per.
+
+#### Mailing
+
+The Icelandic post office has been steadily reducing the amount of postboxes so it might be tricky finding a postbox. Luckily [their website maintaines a list of postboxes and their location](https://posturinn.is/einstaklingar/ymsar-upplysingar/postnumer-og-thjonustustig/#tab=2).
+
+### References
+
+- [https://posturinn.is/en/individuals/information/rates/](https://posturinn.is/en/individuals/information/rates/)
