@@ -12,9 +12,18 @@
 
 ### Means
 
-Google for a post office, get a number, go to the counter when your number shows on the screen, and purchase stamps. Language should not be a problem. Just show them the written cards with country clearly spelt out.
+#### Stamps
+
+Find a post office, get a number, go to the counter when your number shows on the screen, and purchase stamps. Language should not be a problem. Just show them the written cards with country clearly spelt out.
+
+#### Pricing
 
 As of 2024, the postage from domestic to international postcards ranges from 5 NTD (domestic) to 12 NTD (EU, south Anerica) per.
+
+#### Mailing
+
+- Post offices
+- Postboxes should not be hard to find on the street. They are red and green. Domestic mails go into the green one and international mails the red.
 
 ### Quest routes
 
