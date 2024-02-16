@@ -14,7 +14,7 @@
 
 #### Stamps
 
-Find a post office, get a number, go to the counter when your number shows on the screen, and purchase stamps. Language should not be a problem. Just show them the written cards with country clearly spelt out.
+Find a post office (郵局 or 中華郵政), get a number for the queue, go to the counter when your number shows on the screen, and purchase stamps. Language should not be a problem. Just show them the written cards with country clearly spelt out.
 
 #### Pricing
 
@@ -34,6 +34,7 @@ Usually there is a permanant exhibit and a souvenier shop selling postcards. The
 ### References
 
 - [www.post.gov.tw](https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=2020204)
+- [Postal Museum Taipei](https://maps.app.goo.gl/j479tTc2vBjyudEdA) 
 
 ## United States
 
