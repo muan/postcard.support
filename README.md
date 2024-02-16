@@ -45,3 +45,31 @@ As of 2024, the postage from domestic to international postcards ranges from ¢5
 ### References
 
 - [USPS: step by step](https://www.usps.com/ship/letters.htm)
+
+## Japan
+
+### Sourcing cards
+
+- Tokyo: [フジカワエハガキ](https://www.instagram.com/tf_sengajin/) recommended by @risacan
+- Tokyo: [Billboard](https://www.billboard-kj.com) recommended by @risacan
+- Tokyo: [Amleteron](https://amleteron.blogspot.com/) recommended by @risacan
+
+### Means
+
+#### Stamps
+
+- Find a post office (郵便局), get a number for the queue, go to the counter when your number shows on the screen, and purchase stamps. Language should not be a problem. Just show them the written cards with the country clearly spelled out.
+- Go to a convenience store and say "Kitte kudasai (切手ください)" to request stamps. Showing postcards helps them understand what you want to buy. You can get 63JPY・84JPY・94JPY stamps.
+
+#### Pricing
+
+In 2024, postage costs for postcards are 63 JPY domestically and 100 JPY for international airmail.
+
+#### Mailing
+
+- Post offices
+- Postboxes. They are red. There are various shapes and sizes. Please make sure not to confuse them with someone else's mailbox.
+
+### References
+
+- [https://www.post.japanpost.jp](https://www.post.japanpost.jp/index.html)
