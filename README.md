@@ -1,5 +1,13 @@
 # postcard.support
 
+> We don't need to write anything, not really. "Thinking of you" is the single thing that the majority of the posted cards say.
+
+Here is a collection of guides for sending postcards from different countries if you were to find yourself in the foreign country, thinking of someone.
+
+I love postcards and I love the idea of being thought of by a friend, some time of past. Equally, I want to let my friends know that even though they are not with me, and I don't necessarily need them to be with me, they have been on my mind.
+
+I suggest to always put date, time, and location as you sign your postcards.
+
 ## Taiwan
 
 ### Sourcing cards
