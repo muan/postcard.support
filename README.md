@@ -5,7 +5,6 @@
 ### Sourcing cards
 
 - [Eslite bookstores](https://www.eslite.com/) recommended by @muan
-- Taipei: [朋丁 pon ding](https://pon-ding.com) recommended by @muan
 - Taipei: [荒花 Wild Flower Bookstore](https://www.facebook.com/wildflowerbookstore/) recommended by @muan
 - Taichung: [臺中國家歌劇院 National Taichung Theater](https://maps.app.goo.gl/BddJho9RbEy9Y1XNA) recommended by @muan
 - Kaohsiung: [新寶島紀念品](https://www.instagram.com/superbirdtrademark) recommended by @muan (might have to ask the owner because he sells his illustration work under another name online)
