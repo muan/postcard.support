@@ -4,11 +4,11 @@
 
 Here is a collection of guides for sending postcards from different countries if you were to find yourself in the foreign country, thinking of someone.
 
-I love postcards and I love the idea of being thought of by a friend, some time in the past unbeknownst to me. Equally, I want to let my friends know that even though they were not with me, and I didn't necessarily wish them were there with me, they had been on my mind.
+I love postcards and I love the idea of being thought of by a friend some time in the past unbeknownst to me. Equally, I want to let my friends know that even though they were not with me, and I didn't necessarily wish that they were there with me, they simply had been on my mind.
 
-I want more people to be keeping a rollodex of your friends addresses and writing postcards on a whim.
+I want more people to be keeping a rollodex of their friends' addresses and writing postcards on a whim.
 
-I suggest to always put date, time, and location as you sign your postcards.
+I suggest to always put date, time, and location as you sign your postcards, and take a photo of it before mailing for your own recollection. 
 
 ## Taiwan
 
