@@ -24,7 +24,7 @@ I suggest to always put date, time, and location as you sign your postcards, and
 
 #### Stamps
 
-Find a post office (郵局 or 中華郵政), get a number for the queue, go to the counter when your number shows on the screen, and purchase stamps. Language should not be a problem. Just show them the written cards with country clearly spelt out.
+Find a post office (郵局 or 中華郵政), get a number for the queue, go to the counter when your number shows on the screen, and purchase stamps. There is usually a dedicated English service counter. Language should not be a problem. Just show them the written cards with country clearly spelt out.
 
 The convenience stores (7-11 and such) "sell" stamps but it really depends on if the clerk you meet can be bothered and if they are experienced enough. A lot more talking is involved, but if you're desparate given post offices' limited opening times, it's worth trying.
 
