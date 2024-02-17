@@ -77,7 +77,7 @@ As of 2024, the postage from domestic to international postcards ranges from ¢5
 
 #### Pricing
 
-In 2024, postage costs for postcards are 63 JPY domestically and 100 JPY for international airmail.
+In 2024, postage costs for postcards are 63 JPY domestically and 100 JPY for international airmail. However, there are no 100 JPY stamps available. Please creatively combine stamps such as a 63 JPY with a 40 JPY stamp, an 84 JPY with a 20 JPY stamp, or use two 63 JPY stamps to make up for amounts over 100 JPY.
 
 #### Mailing
 
@@ -87,6 +87,7 @@ In 2024, postage costs for postcards are 63 JPY domestically and 100 JPY for int
 ### References
 
 - [https://www.post.japanpost.jp](https://www.post.japanpost.jp/index.html)
+- [https://www.post.japanpost.jp/kitte](https://www.post.japanpost.jp/kitte)
 
 ## Iceland
 
