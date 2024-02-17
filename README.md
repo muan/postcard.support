@@ -30,7 +30,7 @@ The convenience stores (7-11 and such) "sell" stamps but it really depends on if
 
 #### Pricing
 
-As of 2024, the postage from domestic to international postcards ranges from 5 NTD (domestic) to 12 NTD (EU, south Anerica) per.
+As of 2024, the postage from domestic to international postcards ranges from 5 NTD (domestic) to 12 NTD (EU, south America) per. If you are unsure, just put 12 NTD stamp or slightly higher. You can obviously also combine stamps of different values.
 
 #### Mailing
 
