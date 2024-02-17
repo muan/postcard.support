@@ -18,7 +18,7 @@ I suggest to always put date, time, and location as you sign your postcards, and
 - Taipei: [荒花 Wild Flower Bookstore](https://www.facebook.com/wildflowerbookstore/) recommended by @muan
 - Taichung: [臺中國家歌劇院 National Taichung Theater](https://maps.app.goo.gl/BddJho9RbEy9Y1XNA) recommended by @muan
 - Kaohsiung: [新寶島紀念品](https://www.instagram.com/superbirdtrademark) recommended by @muan (might have to ask the owner because he sells his illustration work under another name online)
-- Kaohsiung: [SPPPPP](https://maps.app.goo.gl/k6Z5hT7d8sQMxRVz7) recommended by @muan
+- Kaohsiung: [SPPPP](https://maps.app.goo.gl/k6Z5hT7d8sQMxRVz7) recommended by @muan
 
 ### Means
 
