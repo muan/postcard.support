@@ -8,7 +8,7 @@ I love postcards and I love the idea of being thought of by a friend some time i
 
 I want more people to be keeping a rollodex of their friends' addresses and writing postcards on a whim.
 
-I suggest to always put date, time, and location as you sign your postcards, and take a photo of it before mailing for your own recollection. 
+I suggest to always put date, time, and location as you sign your postcards, and take a photo of it before mailing for your own recollection.
 
 ## Taiwan
 
@@ -43,12 +43,12 @@ As of 2024, the postage from domestic to international postcards ranges from 5 N
 
 #### Visit the presidential office buildiing
 
-Usually there is a permanant exhibit and a souvenier shop selling postcards. There is also a post office in the presidential office building with exclusive stamps. 
+Usually there is a permanant exhibit and a souvenier shop selling postcards. There is also a post office in the presidential office building with exclusive stamps.
 
 ### References
 
 - [www.post.gov.tw](https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=2020204)
-- [Postal Museum Taipei](https://maps.app.goo.gl/j479tTc2vBjyudEdA) 
+- [Postal Museum Taipei](https://maps.app.goo.gl/j479tTc2vBjyudEdA)
 
 ## United States
 
@@ -112,3 +112,45 @@ The Icelandic post office has been steadily reducing the amount of postboxes so 
 ### References
 
 - [https://posturinn.is/en/individuals/information/rates/](https://posturinn.is/en/individuals/information/rates/)
+
+## Greece
+
+### Sourcing
+- [Hyper Hypo](https://hyperhypo.gr/)
+- [Zacharias Art + Object](https://www.zacharias.es/)
+
+## Czech Republic
+
+### Sourcing
+- [Xao](https://xaoxax.cz/kontakt-contact/)
+
+### Means
+
+#### Stamps
+
+Find a post office (Česká pošta or just pošta), get a number for the
+queue. You should choose what you send on the touch screen. (dopis = a
+letter). Go to the counter when your number shows on the screen, and
+purchase stamps. People in post offices barely speak English, but if
+you show them the written cards with country clearly spelt out, it
+should be OK.
+
+The illustration of stamps varies depending on people in post offices.
+They have a big file of stamps and they choose stamps from them.
+(Sometimes you can choose, but they don’t have all kinds of stamps.)
+
+If you want fancy stamps with illustrations in Prague, go to the
+Hlavní pošta (which means Main post office, address Jindřišská 14, 110
+00, Nové Město, Praha 1.) After entering in the building, you will
+find the stamp store corner (one window) on your left. (In the corner
+of the building.) You will find stamps with Czech illustrators etc.
+
+#### Pricing
+
+- About the pricing and type of sending, you can find basic information
+in English here.
+https://www.ceskaposta.cz/en/sluzby/psani/zahranici
+
+#### Mailing
+
+- Post offices
