@@ -83,6 +83,8 @@ In 2024, postage costs for postcards are 63 JPY domestically and 100 JPY for int
 
 - Post offices
 - Postboxes. They are red. There are various shapes and sizes. Please make sure not to confuse them with someone else's mailbox.
+- There are some [underwater postboxes](https://iop-dc.com/diving/%e6%97%a5%e6%9c%ac%e4%b8%80%e6%b7%b1%e3%81%84%ef%bc%81%e6%b0%b4%e6%b7%b120%ef%bd%8d%e6%b0%b4%e4%b8%ad%e3%83%9d%e3%82%b9%e3%83%88/).
+- There is [a Japan Post office at the summit of Mount Fuji](https://www.jpcast.japanpost.jp/2022/08/288.html), the tallest mountain in Japan.
 
 ### References
 
