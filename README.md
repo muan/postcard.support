@@ -10,7 +10,7 @@ I want more people to be keeping a rollodex of their friends' addresses and writ
 
 I suggest to always put date, time, and location as you sign your postcards, and take a photo of it before mailing for your own recollection.
 
-## Taiwan
+## 📮 Taiwan
 
 ### Sourcing cards
 
@@ -50,7 +50,7 @@ Usually there is a permanant exhibit and a souvenier shop selling postcards. The
 - [www.post.gov.tw](https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=2020204)
 - [Postal Museum Taipei](https://maps.app.goo.gl/j479tTc2vBjyudEdA)
 
-## United States
+## 📮 United States
 
 ### Means
 
@@ -60,7 +60,7 @@ As of 2024, the postage from domestic to international postcards ranges from ¢5
 
 - [USPS: step by step](https://www.usps.com/ship/letters.htm)
 
-## Japan
+## 📮 Japan
 
 ### Sourcing cards
 
@@ -91,7 +91,7 @@ In 2024, postage costs for postcards are 63 JPY domestically and 100 JPY for int
 - [https://www.post.japanpost.jp](https://www.post.japanpost.jp/index.html)
 - [https://www.post.japanpost.jp/kitte](https://www.post.japanpost.jp/kitte)
 
-## Iceland
+## 📮 Iceland
 
 ### Sourcing cards
 
@@ -115,7 +115,7 @@ The Icelandic post office has been steadily reducing the amount of postboxes so 
 
 - [https://posturinn.is/en/individuals/information/rates/](https://posturinn.is/en/individuals/information/rates/)
 
-## Greece
+## 📮 Greece
 
 ### Sourcing
 - [Hyper Hypo](https://hyperhypo.gr/)
