@@ -121,7 +121,7 @@ The Icelandic post office has been steadily reducing the amount of postboxes so 
 - [Hyper Hypo](https://hyperhypo.gr/)
 - [Zacharias Art + Object](https://www.zacharias.es/)
 
-## Czech Republic
+## 📮 Czech Republic
 
 ### Sourcing
 - [Xao](https://xaoxax.cz/kontakt-contact/)
