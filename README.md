@@ -159,3 +159,30 @@ https://www.ceskaposta.cz/en/sluzby/psani/zahranici
 #### Mailing
 
 - Post offices
+
+## 📮 Germany
+
+### Sourcing
+
+- Berlin: [Present & Paper](https://maps.app.goo.gl/KexYvf4ShCDnwQQh8)
+- Berlin: [Polly Paper](https://maps.app.goo.gl/siUMv8HrgJNBj6Zc9)
+
+### Means
+
+#### Stamps
+
+You can buy international postcard/letter stamps with the face value of €1.25 at the post offices. Note that at postbank and post offices they only accept EC cards or cash. 
+
+Alternatively, you can pay by credit card and get digital stamps (codes to write on the card) through the Post & DHL app; despite the fact they they claim to only sell domestic digital stamps, if you purchase any ones over the face value €1.25, they will work as well. As of 2026, the cheapest option is €1.80 for großbrief. 
+
+#### Pricing
+
+As of 2026 €0.95 for domestic and €1.25 for international postcards. ([Domestic pricing](https://www.deutschepost.de/en/b/brief_postkarte.html), [International pricing](https://www.deutschepost.de/en/b/briefe-ins-ausland.html))
+
+#### Mailing
+
+Look for [post offices or yellow mail boxes](https://www.deutschepost.de/en/s/standorte.html).
+
+### References 
+
+- [Deutsche Post](https://www.deutschepost.de/en/home.html)
